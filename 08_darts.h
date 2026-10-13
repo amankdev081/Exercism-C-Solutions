@@ -1,5 +1,5 @@
-#ifndef EXERCISM_08_DARTS_H
-#define EXERCISM_08_DARTS_H
+#ifndef DARTS_H
+#define DARTS_H
 
 #include <stdint.h>
 

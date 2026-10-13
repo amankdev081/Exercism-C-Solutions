@@ -1,5 +1,5 @@
-#ifndef EXERCISM_07_QUEEN_ATTACK_H
-#define EXERCISM_07_QUEEN_ATTACK_H
+#ifndef QUEEN_ATTACK_H
+#define QUEEN_ATTACK_H
 
 #include <stdint.h>
 

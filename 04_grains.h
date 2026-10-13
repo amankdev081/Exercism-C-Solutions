@@ -1,5 +1,5 @@
-#ifndef EXERCISM_04_GRAINS_H
-#define EXERCISM_04_GRAINS_H
+#ifndef GRAINS_H
+#define GRAINS_H
 
 #include <stdint.h>
 

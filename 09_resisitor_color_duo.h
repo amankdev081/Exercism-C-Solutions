@@ -1,5 +1,5 @@
-#ifndef EXERCISM_09_RESISTOR_COLOR_DUO_H
-#define EXERCISM_09_RESISTOR_COLOR_DUO_H
+#ifndef RESISTOR_COLOR_DUO_H
+#define RESISTOR_COLOR_DUO_H
 
 #include <stdint.h>
 

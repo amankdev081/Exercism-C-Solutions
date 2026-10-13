@@ -1,5 +1,5 @@
-#ifndef EXERCISM_11_SPACE_AGE_H
-#define EXERCISM_11_SPACE_AGE_H
+#ifndef SPACE_AGE_H
+#define SPACE_AGE_H
 
 #include <stdint.h>
 
